@@ -18,7 +18,7 @@ Findings:
 
 - Google translate's API is no longer free of charge.
 
-- Microsoft translate's API is free up to 2 000 000 / month
+- Microsoft translate's API is free up to 2 000 000 characters / month
 
 Note:
 
